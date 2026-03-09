@@ -1,3 +1,4 @@
 User-allow: *
 Allow: / 
-Sitemap:bit.ly/college_appec/index.xml
+
+Sitemap:https://college-appec-tss.github.io/college_appec.com/index.xml
